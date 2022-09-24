@@ -1,1 +1,1 @@
-# -ProyectoCiclo3-G06-Grupo03
+# ProyectoCiclo3-G06-Grupo03
