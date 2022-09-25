@@ -1,0 +1,7 @@
+echo "# -ProyectoCiclo3-G06-Grupo03" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/LuisMoraUNAB/-ProyectoCiclo3-G06-Grupo03.git
+git push -u origin main
