@@ -1,0 +1,5 @@
+get
+
+localhost:9011/detallepagos
+
+[{"id":1,"pagoId":1,"productoId":1},{"id":2,"pagoId":2,"productoId":2}]

@@ -1,0 +1,8 @@
+post
+
+localhost:9011/detallepagos
+
+{
+        "pagoId": 1,
+        "productoId": 1
+    },
